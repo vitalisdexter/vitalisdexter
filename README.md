@@ -1,7 +1,7 @@
 ### 👋 Hello World, I'm Dexter and i have no lab.
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Getting a Data Analyst Nano Degree from Udacity
 - 🌱 I’m currently learning Data Analytics on Udacity, Coursera, DataCamp and YouTube
 - 👯 I’m looking to collaborate on Data Analytics Projects
 - 🤔 I’m looking for help with Learning Advance Python
